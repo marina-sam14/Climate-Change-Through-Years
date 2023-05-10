@@ -1,4 +1,4 @@
-# Climate Change through years
+# Climate Change through Years
 
 ## Q1: Obtain the Data
 Data downloaded from the National Oceanic and Atmospheric Administration's National Centers for Environmental Information (https://www.ncdc.noaa.gov/cdo-web/) and in particular https://www.ncdc.noaa.gov/cdo-web/search.
